@@ -14,3 +14,5 @@
 *  https://makecode.microbit.org/_0rATLg7tH71r
 ### Kto pierwszy:
 * https://makecode.microbit.org/_PEscT10uHd9Y
+### Zegarek 
+* https://makecode.microbit.org/_7YxJbhYPqKRE
